@@ -1,2 +1,2 @@
-# recettes-pdf
+# Recettes PDF
 Recettes au format PDF.
